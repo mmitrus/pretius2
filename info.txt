@@ -1,0 +1,9 @@
+Model bazy znajduje siê w diag.dmd. Do otwarcia w datamodelerze http://www.oracle.com/technetwork/developer-tools/datamodeler/overview/index.html
+
+
+tabele.sql - zawiera definicje tabel, triggerów itp.
+pakiet.sql - definicja pakietu
+samepleData.sql - procedura do zuzpe³nenia bazy danymi losowymi
+widoki.sql - definicje widoków
+
+
